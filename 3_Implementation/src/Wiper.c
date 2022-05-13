@@ -8,10 +8,7 @@ int main(){
      * 
      */
 	GPIO_InitTypeDef GPIOD_Params; /
-    /**
-     * @param unit32_i is a loop variable
-     * 
-     */
+   
 	uint32_t i; 
 
 	__HAL_RCC_GPIOD_CLK_ENABLE(); 
