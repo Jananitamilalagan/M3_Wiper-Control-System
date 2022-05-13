@@ -5,7 +5,7 @@
  extern "C" {
 #endif
 
-/* Includes ------------------------------------------------------------------*/
+
 #include "stm32f4xx_hal_conf.h"
 
 /** @addtogroup STM32F4xx_HAL_Driver
@@ -16,12 +16,7 @@
   * @{
   */ 
 
-/* Exported types ------------------------------------------------------------*/
-/* Exported constants --------------------------------------------------------*/
-/* Exported macro ------------------------------------------------------------*/
-/** @defgroup HAL_Exported_Macros HAL Exported Macros
-  * @{
-  */
+
 
 /** @brief  Freeze/Unfreeze Peripherals in Debug mode 
   */
