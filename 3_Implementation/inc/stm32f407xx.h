@@ -6,10 +6,6 @@
 #endif /* __cplusplus */
   
 
-/** @addtogroup Configuration_section_for_CMSIS
-  * @{
-  */
-
 /**
   * @brief Configuration of the Cortex-M4 Processor and Core Peripherals 
   */
@@ -19,9 +15,7 @@
 #define __Vendor_SysTickConfig    0U       /*!< Set to 1 if different SysTick Config is used  */
 #define __FPU_PRESENT             1U       /*!< FPU present                                   */
 
-/**
-  * @}
-  */
+
    
 /** @addtogroup Peripheral_interrupt_number_definition
   * @{
