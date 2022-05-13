@@ -5,9 +5,6 @@
  extern "C" {
 #endif /* __cplusplus */
    
-/** @addtogroup Library_configuration_section
-  * @{
-  */
   
 /**
   * @brief STM32 Family
@@ -16,9 +13,6 @@
 #define STM32F4
 #endif /* STM32F4 */
 
-/* Uncomment the line below according to the target STM32 device used in your
-   application 
-  */
 #if !defined (STM32F405xx) && !defined (STM32F415xx) && !defined (STM32F407xx) && !defined (STM32F417xx) && \
     !defined (STM32F427xx) && !defined (STM32F437xx) && !defined (STM32F429xx) && !defined (STM32F439xx) && \
     !defined (STM32F401xC) && !defined (STM32F401xE) && !defined (STM32F410Tx) && !defined (STM32F410Cx) && \
@@ -65,9 +59,7 @@
   /*#define USE_HAL_DRIVER */
 #endif /* USE_HAL_DRIVER */
 
-/**
-  * @brief CMSIS version number V2.5.0
-  */
+
 #define __STM32F4xx_CMSIS_VERSION_MAIN   (0x02U) /*!< [31:24] main version */
 #define __STM32F4xx_CMSIS_VERSION_SUB1   (0x05U) /*!< [23:16] sub1 version */
 #define __STM32F4xx_CMSIS_VERSION_SUB2   (0x00U) /*!< [15:8]  sub2 version */
@@ -77,9 +69,6 @@
                                          |(__STM32F4xx_CMSIS_VERSION_SUB2 << 8 )\
                                          |(__STM32F4xx_CMSIS_VERSION))
 
-/**
-  * @}
-  */
 
 /** @addtogroup Device_Included
   * @{
