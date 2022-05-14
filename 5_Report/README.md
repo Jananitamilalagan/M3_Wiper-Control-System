@@ -70,4 +70,13 @@ By fostering an inserted framework which is easy to understand and can be carrie
 | LLR1	 | Length of wipers|	Depends on the model of the car	|  Wiper Control|
 | LLR2	 | Direction of wipers|	Same and Opposite Directions |	Wiper Control|
 
+## BLOCK DIAGRAM
+![Block Diagram](https://user-images.githubusercontent.com/101245669/168425778-c1669e7e-90d5-4e93-b483-7fbb9a0f3313.jpeg)
+
+
+## FLOWCHART
+![Flowchart](https://user-images.githubusercontent.com/101245669/168425831-ac4b53cf-9ec5-457b-bdd3-5b88c23f9f6d.png)
+
+
+
 
