@@ -15,5 +15,6 @@ Codacy - Static code analysis [![ Codacy Badge]([![Codacy Badge](https://app.cod
 1_Requirements |	Documents Detailing requirements and research.
 2_Design	| Documents Specifying design details.
 3_Implementation	| All Code Documentation.
-4_TestPlan and output |Output Imgaes.
+4_TestPlan | Explains the plan.
 5_Report | Overview of the project.
+6_Output |  Output images.
